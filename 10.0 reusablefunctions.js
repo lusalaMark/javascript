@@ -1,7 +1,16 @@
+// Declare variable here 
+var myGlobal = 10;
+
 function ourReusableFunction (){
-    console.log ("Heyya, World");
+    console.log("Heyya, World");
 }
 
 ourReusableFunction();
+ourReusableFunction();
+ourReusableFunction();
 
-// passing values to functions with arguments 
+// only change the code below this line 
+function ourFunctionwithargs (a, b){
+    console.log(a-b);
+}
+ourFunctionwithargs(10, 4) 
