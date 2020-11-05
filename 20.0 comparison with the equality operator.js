@@ -7,4 +7,6 @@ function testEqual(val){
 }
 
 //change  the value to test 
+
+console.log(testEqual(10));
 console.log(testEqual(10));
