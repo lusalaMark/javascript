@@ -14,3 +14,5 @@ function ourFunctionwithargs (a, b){
     console.log(a-b);
 }
 ourFunctionwithargs(10, 4) 
+ourFunctionwithargs(1, 4) 
+ourFunctionwithargs(-1, 54) 
