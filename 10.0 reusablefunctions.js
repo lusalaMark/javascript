@@ -6,11 +6,9 @@ function ourReusableFunction (){
 }
 
 ourReusableFunction();
-ourReusableFunction();
-ourReusableFunction();
 
 // only change the code below this line 
 function ourFunctionwithargs (a, b){
     console.log(a-b);
 }
-ourFunctionwithargs(0, 4) 
+ourFunctionwithargs(0, 0) 
