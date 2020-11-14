@@ -8,7 +8,7 @@ function ourReusableFunction (){
 ourReusableFunction();
 
 // only change the code below this line 
-function ourFunctionwithargs (a, b){
-    console.log(a-b);
+function ourFunctionwithargs (b, a){
+    console.log(b-a);
 }
 ourFunctionwithargs(0, 0) 
