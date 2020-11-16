@@ -16,8 +16,8 @@
   //const = a variable that can never be changed.//if you try to change it you get an error.
 
 //Uninitialized varaibles
- var a = 10;
- var b = 10;
+ var a = 1000;
+ var b = 100;
   c = "I am a ";
   
   a = a + 2;
