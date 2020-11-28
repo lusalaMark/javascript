@@ -83,3 +83,6 @@ console.log(myAr);
 
 //shopping list
 var mList = [["cearals", 3],["milk",4],["bananas",7],["juice",10],["eggs",6]];
+var mLista = [["ceas", 3],["mik",4],["banas",7],["juce",10],["egs",6]];
+
+console.log(mLista);
