@@ -19,5 +19,3 @@ function golfScore(par, strokes){
 }
 //change these values to test 
 console.log(golfScore(54,4));
-
-console.log(golfScore(4,4));
