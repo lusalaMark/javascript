@@ -29,4 +29,4 @@ function tEqual(val){
 }
 
 //change  the value to test 
-console.log(tEqual(12)); 
+console.log(tEqual(265)); 
