@@ -18,7 +18,7 @@ function teEqual(val){
 }
 
 //change  the value to test 
-console.log(teEqual(12)); 
+console.log(teEqual(120)); 
 
 //set up
 function tEqual(val){
