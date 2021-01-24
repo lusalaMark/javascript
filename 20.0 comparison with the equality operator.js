@@ -8,4 +8,4 @@ function testEqual(val){
 
 //change  the value to test 
 
-console.log(testEqual(100));
+console.log(testEqual(1));
